@@ -21,11 +21,6 @@
    npm install
    ```
 3. Configura las variables de entorno necesarias en un archivo `.env`:
-   - `VITE_AUTH0_DOMAIN`
-   - `VITE_AUTH0_CLIENT_ID`
-   - `VITE_AUTH0_CALLBACK_URL`
-   - `VITE_AUTH0_AUDIENCE`
-   - `VITE_API_SERVER_URL`
 
    - `VITE_AUTH0_DOMAIN`: Dominio de tu tenant de Auth0. Lo encuentras en el panel de Auth0, sección de aplicaciones, en la configuración de tu aplicación.
 
