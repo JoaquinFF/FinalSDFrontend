@@ -12,7 +12,7 @@
 1. Clona este repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd auth0frontend
+   cd FinalSDFrontend
    ```
 2. Instala las dependencias:
    ```bash
